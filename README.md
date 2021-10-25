@@ -7,6 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# A SIMPLE TRANSACTION APP USING LARAVEL AND MYSQL
+
+DEMO: http://adcashadedayo.herokuapp.com/ 
+
+## TO RUN LOCALLY
+
+-   https://github.com/AdedayoMj/Laravel_Php_project.git 
+-   run `composer install`          - make suer you upgrade or download all the depencises for laravel
+-   run `php artisan serve`         - To start the application at php artisan serve
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
